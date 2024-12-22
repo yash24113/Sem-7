@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852725908889",
+    "project_id": "mybyk-f2088",
+    "storage_bucket": "mybyk-f2088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852725908889:android:c0559a1967e1ccecfeff08",
+        "android_client_info": {
+          "package_name": "com.example.mybyk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPs5-Jn7K4IMAEHlhpq9cqXx4l9WQ0Xeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

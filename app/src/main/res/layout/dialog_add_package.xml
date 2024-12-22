@@ -1,0 +1,53 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etDialogPackageId"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:hint="Enter Package ID"
+        android:paddingStart="16dp" />
+
+    <EditText
+        android:id="@+id/etDialogPackageName"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:hint="Enter Package Name"
+        android:paddingStart="16dp"
+        android:layout_marginTop="8dp" />
+
+    <EditText
+        android:id="@+id/etDialogPackageDesc"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:hint="Enter Package Description"
+        android:paddingStart="16dp"
+        android:layout_marginTop="8dp" />
+    <EditText
+        android:id="@+id/etDialogPackagePrice"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:hint="Enter Package Original Price"
+        android:paddingStart="16dp"
+        android:layout_marginTop="8dp" />
+    <EditText
+        android:id="@+id/etDialogPackagePrice1"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:hint="Enter Package Discount Price"
+        android:paddingStart="16dp"
+        android:layout_marginTop="8dp" />
+
+    <EditText
+        android:id="@+id/etDialogPackageValidity"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:hint="Enter Package Validity"
+        android:paddingStart="16dp"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>
